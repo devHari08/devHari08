@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hari Haran R
 
-<!--
-**devHari08/devHari08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**B.Tech Artificial Intelligence & Machine Learning Undergraduate**  
+Saveetha Engineering College, Chennai
 
-Here are some ideas to get you started:
+I am a first-year undergraduate interested in software development, backend engineering and building practical technology solutions. I enjoy exploring application logic, web technologies and AI-assisted development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+
+- **Programming:** Python (Basics)
+- **Backend:** Django (Basics), SQL, SQLite
+- **Web:** HTML, CSS
+- **Core Concepts:** Backend Logic, REST API Workflows, Offline-First Applications
+- **Tools:** Git, GitHub, AI-assisted Development
+
+### Featured Project
+
+**Park_Indus — Hybrid-Edge Smart Parking Management System**
+
+SDG Hackathon 2026 | Team Organizer & Backend Coder
+
+- Coordinating the development team and distributing project responsibilities.
+- Developing backend application logic using Python and Django.
+- Working on vehicle entry/exit tracking and parking slot occupancy monitoring.
+- Implementing offline data storage and synchronization workflows.
+
+**Technologies:** Python · Django · SQLite · HTML · CSS
+
+### Currently Learning
+
+- Backend development with Django
+- Database management and SQL
+- Software development practices
+- Problem-solving and application design
+
+### Connect
+
+- **LinkedIn:** Add your LinkedIn profile URL
+- **GitHub:** [github.com/devHari08](https://github.com/devHari08)
+
+---
+
+*Continuously learning, building and improving through practical projects.*
